@@ -1,0 +1,18 @@
+pasos para installar el proyecto de manera vanila si que lo aga el comando general. 
+
+pasos: 
+
+-- npm create vite@latest
+-- en las opciones ponemos vanilla
+-- despues elejimos javascript
+-- entramos a la carpeta del proyecto
+-- npm install @vitejs/plugin-react -E
+-- instalamos dependencias :   npm install react react-dom -E
+-- procedemos a la configuracion de vite
+-- creamos el archivo en raiz de vite  ---> vite.config.js
+-- y agregamos su configuracion en el archivo creado
+-- configuramos main.js el cual le entrega info a index.html
+-- cambiamos la extenion del main.js a jsx y la que esta dentro del index.html
+-- ejecutamos el proyecto 
+-- agregamos el ---> npm install standard -D
+--fin seguir con el proyecto normalmente
